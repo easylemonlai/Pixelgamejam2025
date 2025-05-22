@@ -1,0 +1,3 @@
+/// 判断敌人，似乎是冗余代码
+enum MOVE_TYPE  { STAY, LINEAR, CIRCLE, RANDOM }
+enum SHOOT_TYPE { NONE, RING, FAN, SPIRAL, TOWARD_PLAYER }
